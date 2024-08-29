@@ -1,0 +1,10 @@
+{
+    "name": "Software Job Assistant",
+    "version": "0.0.1",
+    "description": "This plugin change the system prompt in a way useful to get professional answers to IT professionals.",
+    "author_name": "keobox",
+    "author_url": "",
+    "plugin_url": "",
+    "tags": "prompt, memory",
+    "thumb": ""
+}
